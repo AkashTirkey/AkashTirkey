@@ -92,7 +92,7 @@ A travel booking platform that helps users discover destinations, apply filters,
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/<YOUR-LINKEDIN-USERNAME>
+- 💼 LinkedIn: https://linkedin.com/in/<akashtirkey-swe/>
 - 🌐 Portfolio: https://<YOUR-PORTFOLIO-WEBSITE>
 - 📧 Email: <akashdeeptirkey57@gmail.com>
 
