@@ -32,25 +32,43 @@
 
 ## 🌟 Featured Projects
 
-### 🎬 XFlix
-A YouTube-inspired video sharing platform featuring search, filters, video uploads, and responsive design.
+### 🎬 [XFlix](https://xflix-nine.vercel.app/)
 
-**Tech:** React, Material UI, Axios, React Router
+A YouTube-inspired video sharing platform that allows users to browse, search, filter, and upload videos through a responsive and intuitive interface.
 
-### 🏥 Medify
-A healthcare appointment booking application with hospital search, appointment scheduling, and responsive UI.
+**Tech:** React, JavaScript, Material UI, Axios, React Router
 
-**Tech:** React, JavaScript, CSS, REST APIs
+🔗 **Live Demo:** https://xflix-nine.vercel.app/
 
-### 🛒 QKart
-An e-commerce web application with authentication, shopping cart, and checkout functionality.
+---
+
+### 🏥 [Medify](https://medifyapp-rho.vercel.app/)
+
+A healthcare appointment booking application that enables users to search hospitals, view available slots, and schedule appointments with ease.
+
+**Tech:** React, JavaScript, REST APIs, CSS
+
+🔗 **Live Demo:** https://medifyapp-rho.vercel.app/
+
+---
+
+### 🛒 [QKart](https://akashdeeptirkey57-me-qkart-frontend.vercel.app/)
+
+A modern e-commerce application featuring product browsing, authentication, shopping cart functionality, and a seamless checkout experience.
 
 **Tech:** React, JavaScript, REST APIs
 
-### ✈️ QTrip
-A travel booking platform with search, filters, and reservation features.
+🔗 **Live Demo:** https://akashdeeptirkey57-me-qkart-frontend.vercel.app/
 
-**Tech:** React, JavaScript
+---
+
+### ✈️ [QTrip](https://qtrip-dynamic-mu-flax.vercel.app/)
+
+A travel booking platform that helps users discover destinations, apply filters, and reserve adventures through a responsive user experience.
+
+**Tech:** React, JavaScript, REST APIs
+
+🔗 **Live Demo:** https://qtrip-dynamic-mu-flax.vercel.app/
 
 ---
 
@@ -76,7 +94,7 @@ A travel booking platform with search, filters, and reservation features.
 
 - 💼 LinkedIn: https://linkedin.com/in/<YOUR-LINKEDIN-USERNAME>
 - 🌐 Portfolio: https://<YOUR-PORTFOLIO-WEBSITE>
-- 📧 Email: <YOUR_EMAIL>
+- 📧 Email: <akashdeeptirkey57@gmail.com>
 
 ---
 
