@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 💼Frontend Developer
+- 💼 Frontend Developer
 - 🌱 Currently learning advanced React and the MERN Stack
 - 🧠 Regularly practicing Data Structures & Algorithms
 - 🚀 Building projects to strengthen my frontend development skills
